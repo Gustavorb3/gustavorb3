@@ -1,4 +1,4 @@
-## Sou o Gustavo Oliveira, to tentando aprender um pouco de programação nesse louco mundão
+## Sou o Gustavo Oliveira, atualmente aprendendo e desenvolvendo em JS
 
 
 <div style="display: inline_block"><br>
